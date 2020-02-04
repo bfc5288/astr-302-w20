@@ -167,7 +167,7 @@ When you attempt a merge with conflicting changes, git will stop and ask for you
 
 To practice this, I've created a repository on GitHub that has a merge conflict between two branches. Let's `clone` it with:
 ```
-git clone https://github.com/uw-astr-302-w18/merge-conflict-demo.git
+git clone https://github.com/uw-astr-302-w20/merge-conflict-demo.git
 ```
 (n.b. we'll get to talking about GitHub, cloning, etc. in just a bit).
 
@@ -335,7 +335,7 @@ of changes is ready to be merged into the original, you open a [Pull Request](ht
 
 I'll begin by demonstrating a typical collaboration workflow on a toy
 scientific calculator project that you can find at
-https://github.com/uw-astr-302-w18/astr-302-scicalc.  Take note, as 
+https://github.com/uw-astr-302-w20/astr-302-scicalc.  Take note, as 
 your Homework #2 will be very similar to what I'm about to do!
 
 #### Practice
@@ -365,7 +365,7 @@ your Homework #2 will be very similar to what I'm about to do!
 * Let us come up with some other enhancement proposals for the scientific
   calculator (at least one per person!).  Don't make them too difficult
   (they will be your homework).  Open some issues at
-  https://github.com/uw-astr-302-w18/astr-302-scicalc/issues.
+  https://github.com/uw-astr-302-w20/astr-302-scicalc/issues.
 
 ## More things to try out
 
